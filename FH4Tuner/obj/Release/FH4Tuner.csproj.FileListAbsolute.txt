@@ -1,0 +1,10 @@
+C:\Users\chris\source\repos\FH4Tuner\bin\Release\FH4Tuner.exe.config
+C:\Users\chris\source\repos\FH4Tuner\bin\Release\FH4Tuner.exe
+C:\Users\chris\source\repos\FH4Tuner\bin\Release\FH4Tuner.pdb
+C:\Users\chris\source\repos\FH4Tuner\obj\Release\FH4Tuner.Form1.resources
+C:\Users\chris\source\repos\FH4Tuner\obj\Release\FH4Tuner.Properties.Resources.resources
+C:\Users\chris\source\repos\FH4Tuner\obj\Release\FH4Tuner.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\FH4Tuner\obj\Release\FH4Tuner.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\FH4Tuner\obj\Release\FH4Tuner.exe
+C:\Users\chris\source\repos\FH4Tuner\obj\Release\FH4Tuner.pdb
+C:\Users\chris\source\repos\FH4Tuner\obj\Release\FH4Tuner.csprojAssemblyReference.cache
